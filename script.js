@@ -17,7 +17,7 @@ scissorImg.src = 'scissor.png';
 const objects = [];
 
 // Create 10 rock objects
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 20; i++) {
   objects.push({
     x: Math.random() * canvas.width,
     y: Math.random() * canvas.height,
@@ -29,7 +29,7 @@ for (let i = 0; i < 10; i++) {
 }
 
 // Create 10 paper objects
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 20; i++) {
   objects.push({
     x: Math.random() * canvas.width,
     y: Math.random() * canvas.height,
@@ -41,7 +41,7 @@ for (let i = 0; i < 10; i++) {
 }
 
 // Create 10 scissor objects
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 20; i++) {
   objects.push({
     x: Math.random() * canvas.width,
     y: Math.random() * canvas.height,
