@@ -1,4 +1,4 @@
-# Rock, Paper, Scissor Forever 🪨, 📝, ✂️
+# Rock, Paper, Scissor Forever 🪨 📝 ✂️ ♾️
 
 I had this in mind for a while but was I lazy on thinking how to do it. So I used ChatGPT to help me on this one.
 
