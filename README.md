@@ -12,4 +12,4 @@ Can you help me write code for that?
 
 And it wrote me almost all the code. Then a tweak here, a tweak there and the internet won another useless animation.
 
-You can check the website (here)[https://63eec2d82b062738d531ce82--unique-puppy-3d8cbc.netlify.app/]
+You can check the website [here](https://63eec2d82b062738d531ce82--unique-puppy-3d8cbc.netlify.app/)
